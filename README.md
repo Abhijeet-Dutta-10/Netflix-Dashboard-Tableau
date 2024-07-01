@@ -1,6 +1,6 @@
 # NETFLIX DASHBOARD USING TABLEAU DESKTOP
 
-Welcome to the Netflix Dashboard repository! This project utilizes Tableau and the Netflix Tiles dataset from Kaggle to create an interactive dashboard for analyzing various aspects of Netflix content.
+Welcome to the Netflix Dashboard repository! This project utilizes Tableau Desktop and the Netflix Tiles dataset from Kaggle to create an interactive dashboard for analyzing various aspects of Netflix content.
 
 ## INTRODUCTION
 In this repository, you'll find an interactive Tableau dashboard designed to provide insightful visualizations and analytics based on the Netflix Tiles dataset. Whether you're interested in exploring trends in genres, ratings, or durations, this dashboard offers a user-friendly interface to delve into the world of Netflix content.
