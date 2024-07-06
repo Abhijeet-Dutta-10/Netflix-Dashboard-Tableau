@@ -27,6 +27,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## CREDITS
 - **Dataset**: Netflix Tiles dataset from Kaggle .
+- **Logo**: I have provided in my repository . Easy Access : <a>Click here</a> -->
 - **Tools**: Tableau for visualization.
 
 ## FEEDBACK
